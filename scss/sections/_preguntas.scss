@@ -1,0 +1,48 @@
+.searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    /* Ajusta el margen superior según tu necesidad */
+
+    .form-control {
+        width: 300px;
+        /* Establece el ancho deseado solo para los inputs dentro de .searchbar */
+    }
+
+    span i {
+        cursor: pointer;
+
+        &:hover {
+            color: rgb(61, 207, 97);
+        }
+
+        .intro {
+            padding-top: 100px;
+            display: block;
+            border-width: 0.1px;
+            border-color: #0000001c;
+            border-bottom-style: solid;
+        }
+
+    }
+}
+
+.preguntas {
+    padding-top: 50px;
+
+    div ul li {
+        cursor: pointer;
+        list-style-type: none;
+
+        &:hover {
+            text-decoration: underline;
+
+        }
+    }
+}
+
+.container-preguntas {
+    padding-left: 50px;
+    padding-right: 50px;
+}

@@ -1,0 +1,61 @@
+$primary-color: #04AA6D;
+$hover-color: #45a049;
+
+* {
+  box-sizing: border-box;
+}
+
+// Estilos para inputs
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: $primary-color;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $hover-color;
+  }
+}
+
+// Estilos para el contenedor/section de contacto
+.container {
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+
+  // Estilos para columnas dentro del contenedor
+  .column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+
+  // Limpiar floats después de las columnas
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+// Diseño responsive: cuando la pantalla es menor a 600px de ancho, apilar las columnas una encima de la otra en lugar de al lado
+@media screen and (max-width: 600px) {
+  .container {
+    .column, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+}
