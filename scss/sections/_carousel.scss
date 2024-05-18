@@ -33,6 +33,14 @@ $primary-color: rgba(255, 235, 205, 0.527);
   padding-right: 50px;
 }
 
+@media (max-width: 991px) {
+
+  #carouselExample {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
 h1 {
   display: flex;
   justify-content: center;

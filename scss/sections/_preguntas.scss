@@ -10,22 +10,7 @@
         /* Establece el ancho deseado solo para los inputs dentro de .searchbar */
     }
 
-    span i {
-        cursor: pointer;
 
-        &:hover {
-            color: rgb(61, 207, 97);
-        }
-
-        .intro {
-            padding-top: 100px;
-            display: block;
-            border-width: 0.1px;
-            border-color: #0000001c;
-            border-bottom-style: solid;
-        }
-
-    }
 }
 
 .preguntas {
@@ -45,4 +30,8 @@
 .container-preguntas {
     padding-left: 50px;
     padding-right: 50px;
-}
+
+    h3{
+        padding-top: 20px;
+    }
+    }
