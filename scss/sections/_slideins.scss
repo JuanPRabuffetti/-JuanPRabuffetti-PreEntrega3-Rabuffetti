@@ -1,3 +1,59 @@
-.slidesin{
-    color: red;
+
+
+
+.slidein {
+    .slidein {
+        margin-left: 50px;
+    }
+
+    .slideinL {
+        animation-duration: 3s;
+        animation-name: slideinLeft;
+        display: flex;
+        background-color: gray;
+        width: 50%;
+        padding: 10px;
+        flex-direction: row-reverse;
+        position: relative;
+        margin-left: 48.642%;
+        
+
+    }
+
+    .slideinR {
+        animation-duration: 3s;
+        animation-name: slideinRight;
+        display: flex;
+        width: 50%;
+        padding: 10px;
+        margin: 20px;
+        background-color: gray;
+        position: relative;
+        right: 0;
+        transform: translateX(0); /* Asegura que no se muevan */
+    }
+
+    @keyframes slideinLeft {
+        from {
+            transform: translateX(100%);
+        }
+
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideinRight {
+        from {
+            transform: translateX(-100%);
+        }
+
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    #slideintop {
+        margin-top: 50px;
+    }
 }
