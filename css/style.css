@@ -6,9 +6,6 @@ body {
   font-family: "Roboto Mono", monospace !important;
   font-style: italic !important; }
 
-#nav {
-  background-color: rgba(255, 235, 205, 0.527) !important; }
-
 #item1 {
   background-image: url(../resources/item.png); }
   @media (max-width: 991px) {
@@ -259,13 +256,13 @@ input[type=text], select, textarea {
   resize: vertical; }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #000000;
   color: white;
   padding: 12px 20px;
   border: none;
   cursor: pointer; }
   input[type=submit]:hover {
-    background-color: #45a049; }
+    background-color: #121212; }
 
 .container {
   margin-top: 10px;
@@ -313,7 +310,7 @@ input[type=submit] {
   animation-duration: 3s;
   animation-name: slideinLeft;
   display: flex;
-  background-color: gray;
+  background-color: #cb9d47;
   width: 50%;
   padding: 10px;
   flex-direction: row-reverse;
@@ -396,3 +393,22 @@ body {
     text-align: left; }
   .footer .row a i {
     margin: 0% 3%; } }
+
+#nav {
+  background-color: rgba(255, 235, 205, 0.527) !important; }
+
+.btn-outline-success {
+  --bs-btn-color: #000000 !important;
+  --bs-btn-border-color: #000000 !important;
+  --bs-btn-hover-color: #fff !important;
+  --bs-btn-hover-bg: #000000 !important;
+  --bs-btn-hover-border-color: #000000 !important;
+  --bs-btn-focus-shadow-rgb: 0, 0, 0 !important;
+  --bs-btn-active-color: #fff !important;
+  --bs-btn-active-bg: #000000 !important;
+  --bs-btn-active-border-color: #000000 !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
+  --bs-btn-disabled-color: #000000 !important;
+  --bs-btn-disabled-bg: transparent !important;
+  --bs-btn-disabled-border-color: #000000 !important;
+  --bs-gradient: none !important; }
