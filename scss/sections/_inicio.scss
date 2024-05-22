@@ -8,14 +8,14 @@
 
 .anuncio button {
     display: flex;
-    height: 20px; 
-    width: 60px; 
-    border-radius: 10px; 
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
     justify-content: center;
-    align-items: center;  
+    align-items: center;
     border: none;
     margin-right: 10px;
-    padding: 0;  
+    padding: 0;
     background-color: red;
 
     &:active {
@@ -26,8 +26,8 @@
 .anuncio button p {
     margin: 0;
     color: rgb(255, 255, 255);
-    font-size: 13px; 
-    line-height: 1; 
+    font-size: 13px;
+    line-height: 1;
 }
 
 .especial {
@@ -35,72 +35,102 @@
     margin-bottom: 0;
 }
 
-.comprar{
+.comprar {
     color: rgb(246, 56, 56);
     cursor: pointer;
     text-decoration: underline;
     margin-left: 65px;
 }
 
-.banner img{
+.banner img {
     width: 100%;
 }
 
 .mostrador1 {
-    display: grid; 
-    grid-template-columns: 1fr 1fr; 
-    grid-template-rows: 1fr; 
-    gap: 0px 0px; 
-    grid-template-areas: ". ."; 
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
     justify-items: center;
     margin: 50px;
     margin-left: 100px;
     margin-right: 100px;
+    padding: 20px;
 
+    @media (max-width: 1460px) {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 
-    img{
+    @media (max-width: 1300px) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    @media (max-width: 700px) {
+        grid-template-columns: 1fr;
+        width: 100%; 
+
+    }
+
+    div {
+        width: 100%; 
+    }
+
+    img {
+        width: 100%; /* Asegura que las imágenes ocupen el ancho completo de su contenedor */
+        height: auto;
         cursor: pointer;
     }
 
-  }
+}
 
-.mostrador2{
+.mostrador2 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px; 
-    padding: 20px; 
-    
-   
+    gap: 20px;
+    padding: 20px;
+    @media (max-width: 720px) {
+        grid-template-columns: 1fr
+    }
+
     .mostrador2 div {
         position: relative;
-        overflow: hidden; /* Para asegurar que el contenido extra de las imágenes no se muestre */
+        overflow: hidden;
+        /* Para asegurar que el contenido extra de las imágenes no se muestre */
     }
-    
-    img{
-        width: 100%; 
-        display: block;  
+
+    img {
+        width: 100%;
+        display: block;
         object-fit: cover;
         height: 900px;
         cursor: pointer;
-        
+
     }
 }
 
-.grow img{
+.grow img {
     transition: 1s ease;
-    }
-    
-    .grow img:hover{
+}
+
+.grow img:hover {
     -webkit-transform: scale(1.014);
     -ms-transform: scale(1.014);
     transform: scale(1.014);
     transition: 1s ease;
-    }
+}
 
-.bannerbot img{
+.bannerbot img {
     padding-top: 100px;
     width: 100%;
     padding-left: 20px;
     padding-right: 20px;
     cursor: pointer;
+
+    @media (max-width: 500px) {
+            padding-left: 0px;
+            padding-right: 0px;
+      }
+    
 }
+
