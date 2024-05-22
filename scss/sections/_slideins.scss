@@ -3,154 +3,83 @@
     background-size: cover;
     background-position: center;
     overflow: hidden;
+    padding: 20px;
 
     @media (max-width: 1000px) {
-        display: block;
         margin: 20px auto;
+        background-repeat: repeat;
+        background-size: 50px;
+    }
+}
 
+.slideinL {
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-name: slideinLeft;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid white;
+
+    @media (max-width: 1000px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Centra los elementos horizontalmente */
+        text-align: center;
     }
 
-    .slideinL {
-        animation-duration: 3s;
-        animation-fill-mode: forwards;
-        animation-name: slideinLeft;
-        display: flex;
-        background-color: rgb(0, 0, 0);
+    img {
+        border: 1px solid white;
         border-radius: 20px;
-        width: 60%;
-        padding: 10px;
-        margin-right: 20px;
-        flex-direction: row-reverse;
-        align-self: flex-end;
-        margin-left: auto;
-        border-style: solid;
-        border-width: 1px;
-        border-color: white;
+        flex: 1;
+        max-width: 50%;
+        object-fit: cover;
+        margin-right: 10px;
 
-        @media (max-width: 1675px) {
-            display: block;
+        @media (max-width: 1000px) {
+            width: 100%;
             height: auto;
-            margin: 20px auto;
-            width: 95%;
-
+            margin: 0;
+            text-align: center;
+            
         }
-
-        img {
-            border-style: solid;
-            border-width: 1px;
-            border-radius: 20px;
-            margin-left: 20px;
-            height: 40em;
-            width: 45em;
-            margin-left: 20px;
-
-
-
-            @media (max-width: 1675px) {
-                width: 100%;
-                height: auto;
-                margin: 0;
-            }
-        }
-
-        P {
-            text-align: right;
-            color: white;
-            font-size: 25px;
-            padding-top: 35px;
-            margin-bottom: 0;
-
-            @media (max-width: 1675px) {
-                text-align: center;
-            }
-        }
-
     }
 
-    .slideinR {
-        animation-duration: 3s;
-        animation-fill-mode: forwards;
-        animation-name: slideinRight;
+    .text-content {
+        flex: 1;
         display: flex;
-        align-items: flex-start;
-        width: 60%;
-        padding: 10px;
-        border-radius: 20px;
-        margin: 20px;
-        background-color: rgb(0, 0, 0);
-        right: 0;
-        transform: translateX(0);
-        border-style: solid;
-        border-width: 1px;
-        border-color: white;
-
+        flex-direction: column;
+        justify-content: center;
+        color: white;
+        margin-left: 20px;
         
-
-        h3{
-           
-            margin: 0 0 10px 0;
-        }
-
-        @media (max-width: 1675px) {
-            display: block;
-            margin: 20px auto;
-            width: 95%;
-
-
-        }
-
-        img {
-            border-style: solid;
-            border-width: 1px;
-            border-radius: 20px;
-            margin-left: 20px;
-            height: 40em;
-            width: 45em;
-            margin-left: 0;
-            margin-right: 20px;
-
-
-
-            @media (max-width: 1675px) {
-                width: 100%;
-                height: auto;
-                margin: 0;
-            }
-        }
-
-        p {
-            color: white;
-            padding-top: 35px;
-            font-size: 25px;
-
-            @media (max-width: 1675px) {
-                text-align: center;
-            }
-        }
-
     }
 
-    @keyframes slideinLeft {
-        from {
-            transform: translateX(-100%);
-        }
-
-        to {
-            transform: translateX(0);
+    h3 {
+        margin: 0;
+        font-size: 30px;
+        @media (max-width: 1000px) {
+            text-align: center;
         }
     }
 
-    @keyframes slideinRight {
-        from {
-            transform: translateX(100%);
-        }
+    p {
+        font-size: 25px;
+        padding-top: 10px;
 
-        to {
-            transform: translateX(0);
+        @media (max-width: 1000px) {
+            text-align: center;
         }
     }
+}
 
-    #slideintop {
-        margin-top: 50px;
+@keyframes slideinLeft {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
     }
 }

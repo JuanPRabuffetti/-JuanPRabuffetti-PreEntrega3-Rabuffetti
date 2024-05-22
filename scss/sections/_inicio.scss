@@ -42,12 +42,11 @@
     margin-left: 65px;
 }
 
-.inicio .banner {
-
+.banner img{
     width: 100%;
 }
 
-.mostrador {
+.mostrador1 {
     display: grid; 
     grid-template-columns: 1fr 1fr; 
     grid-template-rows: 1fr; 
@@ -57,4 +56,51 @@
     margin: 50px;
     margin-left: 100px;
     margin-right: 100px;
+
+
+    img{
+        cursor: pointer;
+    }
+
   }
+
+.mostrador2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px; 
+    padding: 20px; 
+    
+   
+    .mostrador2 div {
+        position: relative;
+        overflow: hidden; /* Para asegurar que el contenido extra de las imágenes no se muestre */
+    }
+    
+    img{
+        width: 100%; 
+        display: block;  
+        object-fit: cover;
+        height: 900px;
+        cursor: pointer;
+        
+    }
+}
+
+.grow img{
+    transition: 1s ease;
+    }
+    
+    .grow img:hover{
+    -webkit-transform: scale(1.014);
+    -ms-transform: scale(1.014);
+    transform: scale(1.014);
+    transition: 1s ease;
+    }
+
+.bannerbot img{
+    padding-top: 100px;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}

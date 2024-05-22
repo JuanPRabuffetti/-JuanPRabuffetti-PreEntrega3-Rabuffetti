@@ -37,10 +37,10 @@
   text-decoration: underline;
   margin-left: 65px; }
 
-.inicio .banner {
+.banner img {
   width: 100%; }
 
-.mostrador {
+.mostrador1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
@@ -50,6 +50,40 @@
   margin: 50px;
   margin-left: 100px;
   margin-right: 100px; }
+  .mostrador1 img {
+    cursor: pointer; }
+
+.mostrador2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 20px; }
+  .mostrador2 .mostrador2 div {
+    position: relative;
+    overflow: hidden;
+    /* Para asegurar que el contenido extra de las imágenes no se muestre */ }
+  .mostrador2 img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+    height: 900px;
+    cursor: pointer; }
+
+.grow img {
+  transition: 1s ease; }
+
+.grow img:hover {
+  -webkit-transform: scale(1.014);
+  -ms-transform: scale(1.014);
+  transform: scale(1.014);
+  transition: 1s ease; }
+
+.bannerbot img {
+  padding-top: 100px;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer; }
 
 body {
   margin: 0;
@@ -358,113 +392,69 @@ input[type=submit] {
   background-image: url(/resources/swoosh.jpg);
   background-size: cover;
   background-position: center;
-  overflow: hidden; }
+  overflow: hidden;
+  padding: 20px; }
   @media (max-width: 1000px) {
     .slidein {
-      display: block;
-      margin: 20px auto; } }
-  .slidein .slideinL {
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-    animation-name: slideinLeft;
-    display: flex;
-    background-color: black;
+      margin: 20px auto;
+      background-repeat: repeat;
+      background-size: 50px; } }
+
+.slideinL {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-name: slideinLeft;
+  display: flex;
+  background-color: black;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid white; }
+  @media (max-width: 1000px) {
+    .slideinL {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      /* Centra los elementos horizontalmente */
+      text-align: center; } }
+  .slideinL img {
+    border: 1px solid white;
     border-radius: 20px;
-    width: 60%;
-    padding: 10px;
-    margin-right: 20px;
-    flex-direction: row-reverse;
-    align-self: flex-end;
-    margin-left: auto;
-    border-style: solid;
-    border-width: 1px;
-    border-color: white; }
-    @media (max-width: 1675px) {
-      .slidein .slideinL {
-        display: block;
+    flex: 1;
+    max-width: 50%;
+    object-fit: cover;
+    margin-right: 10px; }
+    @media (max-width: 1000px) {
+      .slideinL img {
+        width: 100%;
         height: auto;
-        margin: 20px auto;
-        width: 95%; } }
-    .slidein .slideinL img {
-      border-style: solid;
-      border-width: 1px;
-      border-radius: 20px;
-      margin-left: 20px;
-      height: 40em;
-      width: 45em;
-      margin-left: 20px; }
-      @media (max-width: 1675px) {
-        .slidein .slideinL img {
-          width: 100%;
-          height: auto;
-          margin: 0; } }
-    .slidein .slideinL P {
-      text-align: right;
-      color: white;
-      font-size: 25px;
-      padding-top: 35px;
-      margin-bottom: 0; }
-      @media (max-width: 1675px) {
-        .slidein .slideinL P {
-          text-align: center; } }
-  .slidein .slideinR {
-    animation-duration: 3s;
-    animation-fill-mode: forwards;
-    animation-name: slideinRight;
+        margin: 0;
+        text-align: center; } }
+  .slideinL .text-content {
+    flex: 1;
     display: flex;
-    align-items: flex-start;
-    width: 60%;
-    padding: 10px;
-    border-radius: 20px;
-    margin: 20px;
-    background-color: black;
-    right: 0;
-    transform: translateX(0);
-    border-style: solid;
-    border-width: 1px;
-    border-color: white; }
-    .slidein .slideinR h3 {
-      margin: 0 0 10px 0; }
-    @media (max-width: 1675px) {
-      .slidein .slideinR {
-        display: block;
-        margin: 20px auto;
-        width: 95%; } }
-    .slidein .slideinR img {
-      border-style: solid;
-      border-width: 1px;
-      border-radius: 20px;
-      margin-left: 20px;
-      height: 40em;
-      width: 45em;
-      margin-left: 0;
-      margin-right: 20px; }
-      @media (max-width: 1675px) {
-        .slidein .slideinR img {
-          width: 100%;
-          height: auto;
-          margin: 0; } }
-    .slidein .slideinR p {
-      color: white;
-      padding-top: 35px;
-      font-size: 25px; }
-      @media (max-width: 1675px) {
-        .slidein .slideinR p {
-          text-align: center; } }
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin-left: 20px; }
+  .slideinL h3 {
+    margin: 0;
+    font-size: 30px; }
+    @media (max-width: 1000px) {
+      .slideinL h3 {
+        text-align: center; } }
+  .slideinL p {
+    font-size: 25px;
+    padding-top: 10px; }
+    @media (max-width: 1000px) {
+      .slideinL p {
+        text-align: center; } }
 
 @keyframes slideinLeft {
   from {
     transform: translateX(-100%); }
   to {
     transform: translateX(0); } }
-
-@keyframes slideinRight {
-  from {
-    transform: translateX(100%); }
-  to {
-    transform: translateX(0); } }
-  .slidein #slideintop {
-    margin-top: 50px; }
 
 body {
   margin: 0;
