@@ -1,0 +1,60 @@
+.anuncio {
+    display: flex;
+    background-color: #100f0f;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+
+.anuncio button {
+    display: flex;
+    height: 20px; 
+    width: 60px; 
+    border-radius: 10px; 
+    justify-content: center;
+    align-items: center;  
+    border: none;
+    margin-right: 10px;
+    padding: 0;  
+    background-color: red;
+
+    &:active {
+        background-color: re;
+    }
+}
+
+.anuncio button p {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-size: 13px; 
+    line-height: 1; 
+}
+
+.especial {
+    color: white;
+    margin-bottom: 0;
+}
+
+.comprar{
+    color: rgb(246, 56, 56);
+    cursor: pointer;
+    text-decoration: underline;
+    margin-left: 65px;
+}
+
+.inicio .banner {
+
+    width: 100%;
+}
+
+.mostrador {
+    display: grid; 
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr; 
+    gap: 0px 0px; 
+    grid-template-areas: ". ."; 
+    justify-items: center;
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }

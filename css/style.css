@@ -303,47 +303,118 @@ input[type=submit] {
     width: 100%;
     margin-top: 0; } }
 
-.slidein .slidein {
-  margin-left: 50px; }
-
-.slidein .slideinL {
-  animation-duration: 3s;
-  animation-name: slideinLeft;
-  display: flex;
-  background-color: #cb9d47;
-  width: 50%;
-  padding: 10px;
-  flex-direction: row-reverse;
-  position: relative;
-  margin-left: 48.642%; }
-
-.slidein .slideinR {
-  animation-duration: 3s;
-  animation-name: slideinRight;
-  display: flex;
-  width: 50%;
-  padding: 10px;
-  margin: 20px;
-  background-color: gray;
-  position: relative;
-  right: 0;
-  transform: translateX(0);
-  /* Asegura que no se muevan */ }
+.slidein {
+  background-color: red;
+  background-image: url(/resources/swoosh.jpg);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden; }
+  @media (max-width: 1000px) {
+    .slidein {
+      display: block;
+      margin: 20px auto; } }
+  .slidein .slideinL {
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-name: slideinLeft;
+    display: flex;
+    background-color: black;
+    border-radius: 20px;
+    width: 60%;
+    padding: 10px;
+    margin-right: 20px;
+    flex-direction: row-reverse;
+    align-self: flex-end;
+    margin-left: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white; }
+    @media (max-width: 1675px) {
+      .slidein .slideinL {
+        display: block;
+        height: auto;
+        margin: 20px auto;
+        width: 95%; } }
+    .slidein .slideinL img {
+      border-style: solid;
+      border-width: 1px;
+      border-radius: 20px;
+      margin-left: 20px;
+      height: 40em;
+      width: 45em;
+      margin-left: 20px; }
+      @media (max-width: 1675px) {
+        .slidein .slideinL img {
+          width: 100%;
+          height: auto;
+          margin: 0; } }
+    .slidein .slideinL P {
+      text-align: right;
+      color: white;
+      font-size: 25px;
+      padding-top: 35px;
+      margin-bottom: 0; }
+      @media (max-width: 1675px) {
+        .slidein .slideinL P {
+          text-align: center; } }
+  .slidein .slideinR {
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-name: slideinRight;
+    display: flex;
+    align-items: flex-start;
+    width: 60%;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: black;
+    right: 0;
+    transform: translateX(0);
+    border-style: solid;
+    border-width: 1px;
+    border-color: white; }
+    .slidein .slideinR h3 {
+      margin: 0 0 10px 0; }
+    @media (max-width: 1675px) {
+      .slidein .slideinR {
+        display: block;
+        margin: 20px auto;
+        width: 95%; } }
+    .slidein .slideinR img {
+      border-style: solid;
+      border-width: 1px;
+      border-radius: 20px;
+      margin-left: 20px;
+      height: 40em;
+      width: 45em;
+      margin-left: 0;
+      margin-right: 20px; }
+      @media (max-width: 1675px) {
+        .slidein .slideinR img {
+          width: 100%;
+          height: auto;
+          margin: 0; } }
+    .slidein .slideinR p {
+      color: white;
+      padding-top: 35px;
+      font-size: 25px; }
+      @media (max-width: 1675px) {
+        .slidein .slideinR p {
+          text-align: center; } }
 
 @keyframes slideinLeft {
-  from {
-    transform: translateX(100%); }
-  to {
-    transform: translateX(0); } }
-
-@keyframes slideinRight {
   from {
     transform: translateX(-100%); }
   to {
     transform: translateX(0); } }
 
-.slidein #slideintop {
-  margin-top: 50px; }
+@keyframes slideinRight {
+  from {
+    transform: translateX(100%); }
+  to {
+    transform: translateX(0); } }
+  .slidein #slideintop {
+    margin-top: 50px; }
 
 body {
   margin: 0;
@@ -412,3 +483,54 @@ body {
   --bs-btn-disabled-bg: transparent !important;
   --bs-btn-disabled-border-color: #000000 !important;
   --bs-gradient: none !important; }
+
+.anuncio {
+  display: flex;
+  background-color: #100f0f;
+  justify-content: center;
+  align-items: center;
+  padding: 2px; }
+
+.anuncio button {
+  display: flex;
+  height: 20px;
+  width: 60px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  margin-right: 10px;
+  padding: 0;
+  background-color: red; }
+  .anuncio button:active {
+    background-color: re; }
+
+.anuncio button p {
+  margin: 0;
+  color: white;
+  font-size: 13px;
+  line-height: 1; }
+
+.especial {
+  color: white;
+  margin-bottom: 0; }
+
+.comprar {
+  color: #f63838;
+  cursor: pointer;
+  text-decoration: underline;
+  margin-left: 65px; }
+
+.inicio .banner {
+  width: 100%; }
+
+.mostrador {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-template-areas: ". .";
+  justify-items: center;
+  margin: 50px;
+  margin-left: 100px;
+  margin-right: 100px; }
