@@ -87,7 +87,7 @@
     }
 
     @media (max-width: 991px) {
-        background-image: url(/resources/E.jpg);
+        background-image: url(../resources/E.jpg);
         grid-template-columns: repeat(2, 200px);
         height: 2000px;
 
@@ -108,7 +108,7 @@
     }
 
     @media (max-width: 600px) {
-        background-image: url(/resources/370px.jpg);
+        background-image: url(../resources/370px.jpg);
         grid-template-columns: repeat(1, 200px);
         height: 160em !important;
         margin: 0!important;
