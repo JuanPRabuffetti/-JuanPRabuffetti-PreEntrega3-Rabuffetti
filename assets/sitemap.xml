@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/issues</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/pulls</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/security</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/blob/main/.gitignore</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/blob/main/index.html</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/blob/main/topt</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/releases</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211508827</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211480279</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199776390</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199382131</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199296690</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199213686</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197284663</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197137489</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197084288</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197045746</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160204426</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160182977</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160158001</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9152212671</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142761160</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142457821</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9104949273</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087457497</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087398723</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087260960</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087222715</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087207530</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels?sort=name-asc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels?sort=name-desc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels?sort=count-desc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels?sort=count-asc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/bug</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/documentation</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/duplicate</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/enhancement</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/good%20first%20issue</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/help%20wanted</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/invalid</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/question</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/labels/wontfix</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211508827/job/25341039140</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211508827/job/25341055191</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211508827/job/25341055193</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211508827/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/cc37204c13618487033354d3091ace6efc0d32ed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211480279/job/25340944902</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211480279/job/25340962311</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211480279/job/25340962309</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9211480279/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199776390/job/25305163120</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199776390/job/25305172394</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199776390/job/25305172390</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199776390/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199382131/job/25304047910</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199382131/job/25304059025</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199382131/job/25304059019</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199382131/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/a054e4ac18b9f478cac5d17f7c2b47b0778ab71f</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199296690/job/25303783894</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199296690/job/25303793127</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199296690/job/25303793122</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199296690/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/bc93dbc59a4477cb14322e7a524d3ebc0ddad060</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199213686/job/25303540373</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199213686/job/25303550573</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199213686/job/25303550563</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9199213686/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/18773401cac60aa240d68a2f9ad7208d99efc40e</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197284663/job/25297369410</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197284663/job/25297384077</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197284663/job/25297384084</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197284663/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/7becd40049bb433ed905c6f1092a42e3f5363ba7</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197137489/job/25296871957</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197137489/job/25296887307</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197137489/job/25296887315</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197137489/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/71fd7668809033b94029d7bebb85bdb82adf0e24</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197084288/job/25296699072</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197084288/job/25296716817</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197084288/job/25296716810</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197084288/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/e8c8f22406eb1587894abb6a2a0cbc3f683a77d1</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197045746/job/25296575510</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197045746/job/25296590771</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197045746/job/25296590774</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9197045746/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/1524fbabeb414cd6d5e629d0ad33f4a4ffa51c74</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160204426/job/25182325991</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160204426/job/25182380704</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160204426/job/25182380697</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160204426/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/d6a6dd31d94cd36a517c71da9f8830f4d71af57a</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160182977/job/25182259270</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160182977/job/25182281558</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160182977/job/25182281562</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160182977/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/b256d9ecc685d13db24aa8f5d76e63b7d1e0cdce</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160158001/job/25182181865</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160158001/job/25182199266</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160158001/job/25182199295</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9160158001/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/42c4e99e57c9b5edf15767c52a628d37821c2667</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9152212671/job/25159348759</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9152212671/job/25159356603</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9152212671/job/25159356601</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9152212671/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/16e26c85b0d88b7abb6bc10d5cd1b981ab953b1d</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142761160/job/25138675333</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142761160/job/25138677861</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142761160/job/25138677862</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142761160/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/4e830e4cbabec8339dd8fb6881450f4904f77766</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142457821/job/25138027617</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142457821/job/25138030412</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142457821/job/25138030416</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9142457821/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/ee7985c62ab16ed311135cee8c9066c5cc83b6d5</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9104949273/job/25029689717</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9104949273/job/25029698626</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9104949273/job/25029698627</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9104949273/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/6e0a828636ca70d012d560c66ce8be0ccd22f9de</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087457497/job/24975224124</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087457497/job/24975232664</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087457497/job/24975232668</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087457497/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/2a95f8eb48fc89c1fddbd9c5036c7f9277b1d587</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087398723/job/24975065814</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087398723/job/24975076456</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087398723/job/24975076454</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087398723/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/be34b39974bc9e7bab06a81b7d504630ac112574</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087260960/job/24974664967</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087260960/job/24974673155</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087260960/job/24974673156</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087260960/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/51303247b4d8cddfa779f9e2684113967e35c101</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087222715/job/24974542788</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087222715/job/24974551447</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087222715/job/24974551537</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087222715/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087207530/job/24974494807</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087207530/job/24974503960</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087207530/job/24974503961</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/actions/runs/9087207530/usage</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/4065fb38d8a03e52789c21483fe86e31f9a69826</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/2bf543078e1737c77ee14b5b59ef49d3e401383b</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanPRabuffetti/PF-Rabuffetti/commit/c51a60a6e1204f0e56480172f08c8773174c0af2</loc>
+  <lastmod>2024-05-23T16:37:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
