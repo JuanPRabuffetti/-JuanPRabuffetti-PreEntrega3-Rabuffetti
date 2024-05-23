@@ -195,11 +195,6 @@ h1 {
   .carousel-control-next {
     width: 200px !important; } }
 
-@media (max-width: 600px) {
-  .carousel-control-prev,
-  .carousel-control-next {
-    display: none !important; } }
-
 /*usamos esto para que las flehcas del carousel no ocupen todo el alto del contenedor*/
 .carousel-control-prev,
 .carousel-control-next {
